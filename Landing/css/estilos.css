@@ -1,0 +1,45 @@
+@font-face {
+
+    font-family: miFuente;
+    font-weight:800;
+    src: url(../tipografias/Montserrat-Black.ttf);
+
+}
+
+@font-face {
+
+    font-family: miFuente;
+    font-weight:700;
+
+    src: url(../tipografias/Montserrat-Bold.ttf);
+}
+
+body {
+    font-family: miFuente;
+}
+
+h1 { 
+     font-weight: 800;
+     font-size: 12.9em;
+
+     /* 155px */
+
+}
+
+p { 
+    font-weight: 700;
+    font-size: 1.75em;
+
+    /* 21px */
+
+}
+
+#parrafo {
+    font-weight: 800;
+    font-size: 5.4em;
+    color: rgba(179, 179, 179, 1);
+
+    /* 65px */
+
+}
+
